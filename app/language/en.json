@@ -1,0 +1,14 @@
+{
+    "account": {
+      "title": "Account",
+      "listings": "Listings",
+      "myMessages": "My Messages",
+      "logOut": "Log Out"
+      
+    },
+    "appNavigator": {
+      "feed": "Feed",
+      "account": "Account"
+    }
+  }
+  

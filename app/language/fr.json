@@ -1,0 +1,14 @@
+{
+    "account": {
+      "title": "Compte",
+      "listings": "Annonces",
+      "myMessages": "Mes messages",
+      "logOut": "Se déconnecter"
+    
+    },
+    "appNavigator": {
+      "feed": "Flux",
+      "account": "Compte"
+    }
+  }
+  
