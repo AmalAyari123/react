@@ -8,6 +8,8 @@ import AcitivityIndicator from '../components/AcitivityIndicator';
 import useApi from '../hooks/useApi';
 import listingApi from '../api/listingApi';
 import ListingContext from '../api/listingContext';
+import { StatusBar } from 'react-native';
+
 
 function ListingScreens({navigation}) { //a screen registered in our navigator so we have access to navigation prop
    

@@ -11,6 +11,8 @@ import storage from '../auth/storage';
 import LanguagePicker from './languageChange';
 import useTranslation from "../language/translationHelper";
 import CartContext from '../cart/cartContext';
+import { StatusBar } from 'react-native';
+
 
 function AccountScreen({navigation}) {
    const {user , setUser} =  useContext(AuthContext); 

@@ -1,6 +1,8 @@
 import React from "react";
 import Constants from "expo-constants";
 import { StyleSheet, SafeAreaView, View } from "react-native";
+import { StatusBar } from 'react-native';
+
 
 function Screen({ children, style , stylee}) {
   return (

@@ -5,6 +5,8 @@ import { useNetInfo } from "@react-native-community/netinfo";
 
 import colors from "../config/colors";
 import AppText from "../components/AppText";
+import { StatusBar } from 'react-native';
+
 
 function OfflineNotice(props) {
   const netInfo = useNetInfo();
